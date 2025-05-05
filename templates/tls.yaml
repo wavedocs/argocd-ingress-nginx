@@ -6,3 +6,4 @@ type: Opaque
 stringData:
   LOGIN: <path:test/data/user#login>
   PASSWORD: <path:test/data/user#password>
+  XXX: <path:test/data/user#xxx>
