@@ -3,6 +3,6 @@ kind: Secret
 metadata:
   name: tls-secret
 type: Opaque
-stringData:
+data:
   LOGIN: <path:test/data/user#login>
   PASSWORD: <path:test/data/user#password>
