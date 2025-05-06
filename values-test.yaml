@@ -1,1 +1,2 @@
-namespaceOverride: "ingress-nginx-test"
+controller:
+  relicaCount: 3
